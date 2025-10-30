@@ -1,4 +1,4 @@
-# 👨‍💻 Nguyen Khanh Duy
+# Nguyen Khanh Duy
 
 **Class ID:** EP25V7X2  
 **Major:** Information Technology  
@@ -20,7 +20,7 @@ I enjoy working with modern web technologies and continuously learning to improv
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py" height="40" />
   <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" />
