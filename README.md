@@ -28,12 +28,12 @@ I enjoy working with modern web technologies and continuously learning to improv
 
 ### 🧠 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts" height="40" />
 </p>
 
 ### 🧩 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" />
 </p>
 
 ### ⚙️ Backend & Database
