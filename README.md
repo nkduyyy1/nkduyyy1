@@ -38,7 +38,7 @@ I enjoy working with modern web technologies and continuously learning to improv
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mongodb" height="40" />
 </p>
 
 ### 🧰 Tools & DevOps
