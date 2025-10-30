@@ -1,4 +1,4 @@
-# Nguyen Khanh Duy
+# 👨‍💻 Nguyen Khanh Duy
 
 **Class ID:** EP25V7X2  
 **Major:** Information Technology  
@@ -14,22 +14,36 @@ I enjoy working with modern web technologies and continuously learning to improv
 
 ---
 
+## 🧩 GitHub Stats & Badges
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkduyyy1&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkduyyy1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ## 💻 Tech Stack
 
-### 🧠 Languages & Frameworks
-
+### 🧠 Languages
 <p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py" height="40" />
-  <br/>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" />
-  <br/>
-  <!-- Backend & Database -->
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" height="40" />
+</p>
+
+### 🧩 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" height="40" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" height="40" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vite" height="40" />
+</p>
+
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vscode" height="40" />
 </p>
 
 ---
@@ -49,6 +63,14 @@ I regularly practice on **LeetCode** to strengthen my problem-solving and algori
 
 ---
 
+## 🎯 Goals
+
+- Master **Next.js** and **TypeScript**  
+- Learn more about **DevOps** and **Cloud Deployment (AWS, Vercel)**  
+- Contribute to **open-source projects** for real-world experience  
+
+---
+
 ## 📬 Contact Me
 
 📧 **Email:** duydc25v7x403@dttx.ctu.edu.vn  
@@ -58,9 +80,3 @@ I regularly practice on **LeetCode** to strengthen my problem-solving and algori
 ---
 
 > 💬 “Code is not just a language for computers — it’s a way to express logic, creativity, and imagination.”
-
----
-
-### 🧩 Badges & GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nkduyyy1&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkduyyy1&layout=compact&theme=tokyonight)
