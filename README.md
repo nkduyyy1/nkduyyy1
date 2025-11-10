@@ -1,4 +1,4 @@
-# 👨‍💻 Nguyen Khanh Duy
+# Nguyen Khanh Duy
 
 **Class ID:** EP25V7X2  
 **Major:** Information Technology  
